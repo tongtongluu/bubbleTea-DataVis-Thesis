@@ -1,8 +1,8 @@
-Boba Generation
+# Boba Generation
 By Luella Lu
 
-# Main idea:
-## Who is the person, demographic, or processional group you are designing for. What do they know about your project already?
+## Main idea:
+#### Who is the person, demographic, or processional group you are designing for. What do they know about your project already?
 	The audience is people who want to learn more about the bubble tea phenomenon surging across the globe, especially in countries with a large asian diaspora.
 ## How is your audience reading your project. In what situation, modality, through which distribution channel, and in what context?
 	The audience is reading the project through a website, having stumbled upon it through a web search seeking to learn more about the history, culture, and future of bubble tea.
