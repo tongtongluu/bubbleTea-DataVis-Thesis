@@ -1,31 +1,30 @@
 # Boba Generation
-By Luella Lu
+By (Luella) Qinglu Lu
 
 ## Main idea:
 ### Target audience
 The audience is people who want to learn more about the bubble tea phenomenon surging across the globe, especially in countries with a large asian diaspora.
-## How is your audience reading your project. In what situation, modality, through which distribution channel, and in what context?
+### Format and context
 The audience is reading the project through a website, having stumbled upon it through a web search seeking to learn more about the history, culture, and future of bubble tea.
-## What does your project ask of your audience, what do they need to do (input, interact, act)?
-	The audience should come with a willingness to learn and process information presented to them in a mostly static but still interactive website through hovering, clicking, small minigames, and an interactive map.
-## What does your audience take away, instantly, after 1min, 5min of engagement?
-	That the topic of bubble tea is far more nuanced than just a passing fad of the last decade. After 5 minutes, they should be able to appreciate the cultural nuance provided by bubble tea to society, especially when viewed from the point of view of the asian diaspora. 
-## Conceptual Question
-	What is the significance of bubble tea as a cultural icon and phenomenon, especially when it relates to the asian american community? 
-## Conceptual Significance
-	Bubble tea represents more than just a drink to the asian-american community, it represents something that gives members of that community acceptance in an otherwise unfriendly environment existing as foreigners. It brings them together and gives them something that constitutes a guaranteed shared experience, something that helps forge bonds and hold things together during otherwise turbulent years of finding your way in broader society.
-## Practical Application 
-	To raise awareness of the struggles that immigrants face on a daily basis, something as simple as a drink can become a rallying focal point for a subset of the immigrant community and help them form their identities in society. 
+### Interaction
+The audience should come with a willingness to learn and process information presented to them in a mostly static but still interactive website through hovering, clicking, small minigames, and an interactive map.
+### Takeaways
+That the topic of bubble tea is far more nuanced than just a passing fad of the last decade. After 5 minutes, they should be able to appreciate the cultural nuance provided by bubble tea to society, especially when viewed from the point of view of the asian diaspora. 
+### Conceptual Question
+I want to visualize what is the significance of bubble tea as a cultural icon and phenomenon, especially when it relates to the asian american community. 
+### Conceptual Significance
+Bubble tea represents more than just a drink to the asian-american community, it represents something that gives members of that community acceptance in an otherwise unfriendly environment existing as foreigners. It brings them together and gives them something that constitutes a guaranteed shared experience, something that helps forge bonds and hold things together during otherwise turbulent years of finding your way in broader society.
+### Practical Application 
+To raise awareness of the struggles that immigrants face on a daily basis, something as simple as a drink can become a rallying focal point for a subset of the immigrant community and help them form their identities in society. 
  
-# Data Sources:
-## Survey 
-## Personal
+## Data Sources:
+### Survey 
+#### Personal
 	Credit card transaction history
 	UberEats
 	Doordash
 	Seamless
-Personal data given in the form of a csv from each of the sources. 
-They all include common variables such as:
+Personal data given in the form of a csv from each of the sources. They all include common variables such as:
 	Restaurant name
 	Order
 	$ spent
