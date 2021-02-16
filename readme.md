@@ -2,10 +2,10 @@
 By Luella Lu
 
 ## Main idea:
-#### Target audience
+### Target audience
 The audience is people who want to learn more about the bubble tea phenomenon surging across the globe, especially in countries with a large asian diaspora.
 ## How is your audience reading your project. In what situation, modality, through which distribution channel, and in what context?
-	The audience is reading the project through a website, having stumbled upon it through a web search seeking to learn more about the history, culture, and future of bubble tea.
+The audience is reading the project through a website, having stumbled upon it through a web search seeking to learn more about the history, culture, and future of bubble tea.
 ## What does your project ask of your audience, what do they need to do (input, interact, act)?
 	The audience should come with a willingness to learn and process information presented to them in a mostly static but still interactive website through hovering, clicking, small minigames, and an interactive map.
 ## What does your audience take away, instantly, after 1min, 5min of engagement?
