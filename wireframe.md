@@ -22,18 +22,18 @@ Reason1: Fully customizable, bubble tea nowadays stands for more than tea/milk t
 Data: menu from yelp
 ![](p3.png)
 
-## Part4: why it is popular?
+
 Reason2: Easily instagramable:  lots of hashtags and color analysis of the bubble tea posts
 Data: instagram tags, posts
 ![](p4.png)
 
-## Part5: why it is popular?
+
 Reason3: Americanized? use better ingredients to tailor with people's needs 
 No body mentioned about Asian Identity
 Data: yelp reviews
 ![](p5.png)
 
-## Part6: Can you relate bubble tea with asian identity?
+## Part4: Can you relate bubble tea with asian identity?
 Continue from the previous part, Asians, especially Asian American do think bubble teashop is a social interaction place. However, in terms of Asian Identity, to my surprise, a lot of asian american refused to relate their identity with a pop drink.
 Brought up a term called: boba liberalism 
 Data: survey, twitter
