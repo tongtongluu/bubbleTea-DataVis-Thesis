@@ -1,5 +1,5 @@
 # Spill the Boba tea
-## How Asian are you? Boba is not just a drink, but a complicated symbol of Asian Culture
+## How Asian Are You? Boba is Not Just a Drink, but a Means to Identity Yourself
 
 By (Luella) Qinglu Lu | [Project Site](https://tongtongluu.github.io/thesis) | [Parsons School of Design Data Visualization 2021](https://parsons.nyc/thesis-2021/) 
  
