@@ -5,14 +5,14 @@ By (Luella) Qinglu Lu | [Project Site](https://tongtongluu.github.io/thesis) | [
 
 ## Table of Contents
 
- - [Abstract](https://github.com/tongtongluu/bubbleTea-DataVis-Thesis/documentation#Abstract)    
- - [Treatment](https://github.com/tongtongluu/bubbleTea-DataVis-Thesis/documentation#Treatment)
- - [Data Sources](https://github.com/tongtongluu/bubbleTea-DataVis-Thesis/documentation#Data-Sources)
- - [Design Decisions](https://github.com/tongtongluu/bubbleTea-DataVis-Thesis/documentation#Design-Decisions)
- - [Conclusion](https://github.com/tongtongluu/bubbleTea-DataVis-Thesis/documentation#Conclusion) 
- - [Screen Captures](https://github.com/tongtongluu/bubbleTea-DataVis-Thesis/documentation#Screen-Captures)
- - [Design Process](https://github.com/tongtongluu/bubbleTea-DataVis-Thesis/documentation#Design-Process)
- - [Acknowledgements](https://github.com/tongtongluu/bubbleTea-DataVis-Thesis/documentation#Acknowledgements)
+ - [Abstract](https://github.com/tongtongluu/bubbleTea-DataVis-Thesis/tree/main/documentation#Abstract)    
+ - [Treatment](https://github.com/tongtongluu/bubbleTea-DataVis-Thesis/tree/main/documentation#Treatment)
+ - [Data Sources](https://github.com/tongtongluu/bubbleTea-DataVis-Thesis/tree/main/documentation#Data-Sources)
+ - [Design Decisions](https://github.com/tongtongluu/bubbleTea-DataVis-Thesis/tree/main/documentation#Design-Decisions)
+ - [Conclusion](https://github.com/tongtongluu/bubbleTea-DataVis-Thesis/tree/main/documentation#Conclusion) 
+ - [Screen Captures](https://github.com/tongtongluu/bubbleTea-DataVis-Thesis/tree/main/documentation#Screen-Captures)
+ - [Design Process](https://github.com/tongtongluu/bubbleTea-DataVis-Thesis/tree/main/documentation#Design-Process)
+ - [Acknowledgements](https://github.com/tongtongluu/bubbleTea-DataVis-Thesis/tree/main/documentation#Acknowledgements)
 
 ---
 
