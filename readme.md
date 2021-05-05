@@ -23,4 +23,14 @@ Over the past 30 years, bubble tea in America has gone from a niche Taiwanese be
 
 ---
 
-Submitted in partial fulfillment of the requirements for the degree of Master Science in Data Visualization at Parsons School of Design // May 2021
+Deepest thank you to Daniel Sauter, Alec Barrett, Richard The and Christian Swinehart for your guidance and support.
+
+Jenny G. Zhang, Viet Thanh Nguyen and Lisa Lowe for your comprehensive insights into Asian American cultural politics
+
+Special Thanks to my roommate Jason Yang and my cat Caviar, who gave me great encouragement and support during the pandemic.I am so lucky to have you both.
+
+I would also like to thank the Parsons 2021 Data Visualization cohort for a very special online experience this year. I hope we can meet in person soon, and I wish you all the best in your future career and life paths.
+
+
+
+#### Submitted in partial fulfillment of the requirements for the degree of Master Science in Data Visualization at Parsons School of Design // May 2021
