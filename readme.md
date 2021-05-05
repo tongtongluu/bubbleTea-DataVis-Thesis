@@ -3,6 +3,7 @@
 
 By (Luella) Qinglu Lu | [Project Site](https://tongtongluu.github.io/thesis) | [Parsons School of Design Data Visualization 2021](https://parsons.nyc/thesis-2021/) 
  
+ [click here for more info about the research and design process](https://parsons.nyc/thesis-2021/)!
 
 ---
 
@@ -29,8 +30,8 @@ Jenny G. Zhang, Viet Thanh Nguyen and Lisa Lowe for your comprehensive insights 
 
 Special Thanks to my roommate Jason Yang and my cat Caviar, who gave me great encouragement and support during the pandemic.I am so lucky to have you both.
 
-I would also like to thank the Parsons 2021 Data Visualization cohort for a very special online experience this year. I hope we can meet in person soon, and I wish you all the best in your future career and life paths.
+I would also like to thank the [Parsons 2021 Data Visualization cohort](https://parsons.nyc/thesis-2021/)!for a very special online experience this year. I hope we can meet in person soon, and I wish you all the best in your future career and life paths.
 
-
+[Click here for more info]
 
 #### Submitted in partial fulfillment of the requirements for the degree of Master Science in Data Visualization at Parsons School of Design // May 2021
