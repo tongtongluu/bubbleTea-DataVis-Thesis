@@ -5,20 +5,18 @@ By (Luella) Qinglu Lu | [Project Site](https://tongtongluu.github.io/thesis) | [
 
 ## Table of Contents
 
- - [Abstract](https://github.com/tongtongluu/bubbleTea-DataVis-Thesis#Abstract)    
- - [Treatment](https://github.com/tongtongluu/bubbleTea-DataVis-Thesis#Treatment)
- - [Data Sources](https://github.com/tongtongluu/bubbleTea-DataVis-Thesis#Data-Sources)
- - [Design Decisions](https://github.com/tongtongluu/bubbleTea-DataVis-Thesis#Design-Decisions)
- - [Conclusion](https://github.com/tongtongluu/bubbleTea-DataVis-Thesis#Conclusion) 
- - [Screen Captures](https://github.com/tongtongluu/bubbleTea-DataVis-Thesis#Screen-Captures)
- - [Design Process](https://github.com/tongtongluu/bubbleTea-DataVis-Thesis#Design-Process)
- - [Acknowledgements](https://github.com/tongtongluu/bubbleTea-DataVis-Thesis#Acknowledgements)
+ - [Abstract](https://github.com/tongtongluu/bubbleTea-DataVis-Thesis/documentation#Abstract)    
+ - [Treatment](https://github.com/tongtongluu/bubbleTea-DataVis-Thesis/documentation#Treatment)
+ - [Data Sources](https://github.com/tongtongluu/bubbleTea-DataVis-Thesis/documentation#Data-Sources)
+ - [Design Decisions](https://github.com/tongtongluu/bubbleTea-DataVis-Thesis/documentation#Design-Decisions)
+ - [Conclusion](https://github.com/tongtongluu/bubbleTea-DataVis-Thesis/documentation#Conclusion) 
+ - [Screen Captures](https://github.com/tongtongluu/bubbleTea-DataVis-Thesis/documentation#Screen-Captures)
+ - [Design Process](https://github.com/tongtongluu/bubbleTea-DataVis-Thesis/documentation#Design-Process)
+ - [Acknowledgements](https://github.com/tongtongluu/bubbleTea-DataVis-Thesis/documentation#Acknowledgements)
 
 ---
 
 ### Abstract
-
---- 
 
 Over the past 30 years, bubble tea in America has gone from a niche Taiwanese beverage to a mainstream iconic cultural symbol for Asian Americans.Bubble tea and boba, refer to the same tea-based beverage with toppings. Also, the word boba has become so widely used in this community socially as a controversial noun in the discussion of  defying unique cultural traits for immigrants . The purpose of this study is to explore and visualize the reasons behind the popularity of boba. It is hoped that through the cultural symbol created by a beverage in this era, it will trigger people to realize and reexamine the "Asian-ness". Overall, It's a matter of “becoming”  as  how people choose to identify themselves
 
@@ -28,11 +26,8 @@ Over the past 30 years, bubble tea in America has gone from a niche Taiwanese be
 ### Project Preview
 ![](https://github.com/tongtongluu/bubbleTea-DataVis-Thesis/blob/main/preview.png)
 
----
 
 ### Acknowledgements
-
----
 
 Deepest thank you to Daniel Sauter, Alec Barrett, Richard The and Christian Swinehart for your guidance and support.
 
@@ -46,7 +41,6 @@ I would also like to thank the [Parsons 2021 Data Visualization cohort](https://
 
 ## Treatment
 
----
 
     - 1. Intro
     - 1.1. Order History
@@ -65,8 +59,6 @@ blabla
 
 ## Data Sources 
 
----
-
 blabla
 
 | Data | Description | Link |
@@ -74,31 +66,22 @@ blabla
 | blabla | blabla | blabla |
 | blabla | blabla | blabla |
 | blabla | blabla | blabla |
-|  |  |
+
 
 **Other References**
-- Tropical Conservation Science
-- International Monetary Fund
-- WorldAtlas
-- NJAS - Wageningen Journal of Life Sciences
-- Global Ecology and Conservation
-- Tropical Conservation Science
-- Yale Environment 360
+blabla
 
 ---
 
 
 ## Design Decisions
 
----
-
 blabla
 
 ---
 
-
 ## Conclusion
----
+
 blabla
 
 ---
@@ -106,8 +89,6 @@ blabla
 
 
 ## Screen Captures
-
----
 
 ![](1.png)
 
@@ -121,8 +102,6 @@ blabla
 
 ## Design Process
 
----
-
 For more details about the thinking and design process behind this project, please visit :
 [Storyboard](https://github.com/tongtongluu/bubbleTea-DataVis-Thesis/tree/main/process/1_storyboard)
 [Wireframe](https://github.com/tongtongluu/bubbleTea-DataVis-Thesis/tree/main/process/2_wireframe)
@@ -130,8 +109,6 @@ For more details about the thinking and design process behind this project, plea
 ---
 
 ### Acknowledgements
-
----
 
 Deepest thank you to Daniel Sauter, Alec Barrett, Richard The and Christian Swinehart for your guidance and support.
 
