@@ -5,7 +5,7 @@ By (Luella) Qinglu Lu | [Project Site](https://tongtongluu.github.io/thesis) | [
 
 ---
  
- [for more info. about the research and design process](https://github.com/tongtongluu/bubbleTea-DataVis-Thesis/blob/main/readme.md)
+ [for more info. about the research and design process](https://github.com/tongtongluu/bubbleTea-DataVis-Thesis/blob/main/documentation/readme.md)
 
 ---
 
