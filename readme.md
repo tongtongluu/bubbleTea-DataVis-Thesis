@@ -5,7 +5,7 @@ By (Luella) Qinglu Lu | [Project Site](https://tongtongluu.github.io/thesis) | [
 
 ---
  
- [click here for more info about the research and design process](https://parsons.nyc/thesis-2021/)
+ [for more info. about the research and design process](https://github.com/tongtongluu/bubbleTea-DataVis-Thesis/blob/main/readme.md)
 
 ---
 
